@@ -3,6 +3,7 @@ from selenium import webdriver
 
 # Enter path to your browsers driver
 driver_path = r"path/to/browserdriver"
+# Replace Chrome() with your browser
 driver = webdriver.Chrome(driver_path)
 
 def signIn():  

@@ -4,6 +4,7 @@ It also creates a local folder, a readme file and pushes an initial commit to Gi
 
 ### Usage
 In GitHub.py, fill in the path to your browsers driver. 
+Replace webdriver.Chrome() with your browser of choice.
 Then replace username and password with your own.
 
 Browser Drivers:
